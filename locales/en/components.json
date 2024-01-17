@@ -1,1 +1,1 @@
-{"greeting-ec":"Have a great day!","lang-de":"German","lang-en":"English","lang-sr":"Serbian"}
+{"greeting-ec":"Have a great day! {{name}}","lang-de":"German","lang-en":"English","lang-sr":"Serbian"}

@@ -4,5 +4,6 @@ import { useTranslation } from 'react-i18next';
 
 export default function ExampleClientComponent() {
   const { t } = useTranslation();
-  return <p>{t('components:greeting-ec')}</p>;
+  const name = 'Mladen';
+  return <p>{t('components:greeting-ec', { name })}</p>;
 }
